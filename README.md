@@ -26,13 +26,6 @@ yarn start
 ❗️ features : 구현해야 할 기능이에요.
 과제와 비슷하지만, 요구사항이 훨씬 적습니다! 아래의 요구사항만 반영된 프로젝트를 제출해주세요.
 
-<details>
-  <summary markdown=1>구현해야 하는 UI 이미지 보기</summary>
-  <div>
-    ![구현해야 하는 UI 이미지 보기](https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/15143d77-52cf-4f71-8fc2-bb80418803e4/과제_영상.mov?id=a3d54e06-0ffa-4442-b2ea-acaeb7fa6bac&table=block&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1721354400000&signature=19pcqvk73guh7X-3nEav0zatXDG2-KKH447lmg2O3JY)
-
-  </div>
-</details>
 
 ❗️ 비동기 작업인 2초 지연을 위해서는 미리 만들어둔 `“waitTwoSeconds”` 함수를 사용하세요.
 
