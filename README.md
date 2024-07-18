@@ -45,3 +45,7 @@ await waitTwoSeconds()
 ### 1. input에 제목을 쓰고, [추가하기] 버튼을 클릭하면 “2초 뒤” todo가 추가되어 화면에 렌더링 됩니다.
 
 ### 2. [삭제하기] 버튼을 클릭하면 “2초 뒤” todo가 삭제되어 화면에 렌더링 됩니다.
+
+***
+
+https://react-test-week3.vercel.app/
