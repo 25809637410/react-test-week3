@@ -26,6 +26,7 @@ yarn start
 ❗️ features : 구현해야 할 기능이에요.
 과제와 비슷하지만, 요구사항이 훨씬 적습니다! 아래의 요구사항만 반영된 프로젝트를 제출해주세요.
 
+![구현해야 하는 UI 이미지 보기](https://github.com/user-attachments/assets/b4732857-7fcf-4965-bd99-0401ab5fec04)
 
 ❗️ 비동기 작업인 2초 지연을 위해서는 미리 만들어둔 `“waitTwoSeconds”` 함수를 사용하세요.
 
